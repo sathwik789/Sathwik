@@ -11,12 +11,12 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 I'm a Computer Science graduate with a specialization in **Data Science**  
-- 🔭 Currently working on: **Weather Prediction**, **Authentication System**, and **Multi-step Forms**  
-- 🌱 Learning: **DevOps**, **Docker**, **CI/CD (GitHub Actions, Jenkins)**  
-- 🚀 Passionate about building interactive web apps with **Flask** and **React**  
-- 📊 I love working with **data**, visualizing it using **Tableau**, and building ML models in **Python/R**  
-- 🧠 Always curious about new tools & technologies  
+- 🎓 I'm a Computer Science graduate specializing in **Data Science** with a strong inclination toward **Full-Stack Web Development**
+- 💻 I build responsive, user-friendly web apps using **React**, and  **Node.js**.
+- 🔭 Currently working on: **Expense Tracker**, **Authentication System**, and **Multi-step Form with JSON Backend**
+- 🌐 Exploring modern DevOps tools like **Docker**, **GitHub Actions**, and **Jenkins** for CI/CD workflows
+- 📊 Passionate about **data-driven development** — from preprocessing with **Pandas** to visualizing insights in **Tableau**
+- 🧠 Always learning — curious about new frameworks, cloud services, and the intersection of **ML** and the **web**
 
 ---
 
