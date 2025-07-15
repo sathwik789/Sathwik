@@ -23,9 +23,10 @@
 ### 🛠️ Tech Stack
 
 #### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 #### Web Dev:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,8 +40,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -74,7 +74,9 @@
 - 🔐 [Authentication System](https://github.com/sathwik789/authentication-system) — Full-stack auth with MongoDB, React & Node.js  
 - 🌦️ [Weather Prediction](https://github.com/sathwik789/weather-prediction) — ML-based weather classifier using Flask  
 - 📋 [Multi-Step Form](https://github.com/sathwik789/multi-form) — React app with progress bar, summary screen, and JSON backend  
-- 📊 [Tableau Dashboards](https://github.com/sathwik789/tableau-project) — Interactive visualizations built with Tableau
+- 💡 [Portfolio Website](https://github.com/sathwik789/portfolio) — Personal portfolio built with React  
+- 📅 [Task Manager](https://github.com/sathwik789/todo-app) — React + Tailwind Todo List with CRUD  
+- 📊 [Tableau Dashboards](https://github.com/sathwik789/tableau-project) — Interactive visualizations built with Tableau  
 
 ---
 
@@ -86,4 +88,9 @@
 
 ---
 
-⭐ _“Code. Learn. Share. Repeat.”_  
+### Online Coding Platforms
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sathwikreddy147/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/reddysathwik019)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/sathwikM)
+
+⭐ _“Code. Learn. Share. Repeat.”_
