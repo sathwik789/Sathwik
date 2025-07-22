@@ -52,13 +52,13 @@
 
 ### 🚀 Featured Projects
 
+- 💰 [Expense Tracker](https://github.com/sathwik789/Expense_Tracker) – Full-stack MERN Expense Tracker with user authentication, income/expense CRUD, visual summaries, and deployed on **Vercel + Render** for real-time tracking
 - 🔐 [Authentication System](https://github.com/sathwik789/authentication-system) – Full-stack auth with MongoDB, React & Node.js  
 - 🌦️ [Weather Prediction](https://github.com/sathwik789/weather-prediction) – ML-based weather classifier using Flask  
 - 📋 [Multi-Step Form](https://github.com/sathwik789/multi-form) – React app with progress bar and JSON backend  
 - 💡 [Portfolio Website](https://github.com/sathwik789/portfolio) – Personal portfolio built with React  
 - 📅 [Task Manager](https://github.com/sathwik789/todo-app) – React + Tailwind Todo List with CRUD  
 - 📊 [Tableau Dashboards](https://github.com/sathwik789/tableau-project) – Interactive visualizations in Tableau  
-- 💰 [Expense Tracker](https://github.com/sathwik789/Expense_Tracker) – Full-stack MERN Expense Tracker with user authentication, income/expense CRUD, visual summaries, and deployed on **Vercel + Render** for real-time tracking
 
 ---
 
