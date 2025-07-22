@@ -58,6 +58,7 @@
 - 💡 [Portfolio Website](https://github.com/sathwik789/portfolio) – Personal portfolio built with React  
 - 📅 [Task Manager](https://github.com/sathwik789/todo-app) – React + Tailwind Todo List with CRUD  
 - 📊 [Tableau Dashboards](https://github.com/sathwik789/tableau-project) – Interactive visualizations in Tableau  
+- 💰 [Expense Tracker](https://github.com/sathwik789/Expense_Tracker) – Full-stack MERN Expense Tracker with user authentication, income/expense CRUD, visual summaries, and deployed on **Vercel + Render** for real-time tracking
 
 ---
 
@@ -69,10 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sathwik789&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwik789&layout=donut&theme=merko&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
